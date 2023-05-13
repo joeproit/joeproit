@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/joeproit?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/joeproit?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 
 ---
 
