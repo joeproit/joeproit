@@ -13,29 +13,21 @@
 
 ## 💻 Recent Projects:
 
-### 📚 [Project 1 Name](https://github.com/joeproit/project1)
+### 📚 [COBOL Portfolio](https://github.com/joeproit/COBOL)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/COBOL)
 ![GitHub issues](https://img.shields.io/github/issues/joeproit/COBOL)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/COBOL)
 
-Brief description of Project 1.
+This repository contains a collection of COBOL programs demonstrating a variety of skills and techniques.
 
-### 📈 [Project 2 Name](https://github.com/joeproit/project2)
+### 📈 [Time Tracker](https://github.com/joeproit/jobsearch-timetracker)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/project2)
 ![GitHub issues](https://img.shields.io/github/issues/joeproit/project2)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/project2)
 
-Brief description of Project 2.
-
-### 🎮 [Project 3 Name](https://github.com/joeproit/project3)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/project3)
-![GitHub issues](https://img.shields.io/github/issues/joeproit/project3)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/project3)
-
-Brief description of Project 3.
+Node/React Time Tracker
 
 ---
 
