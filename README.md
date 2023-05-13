@@ -23,9 +23,9 @@ This repository contains a collection of COBOL programs demonstrating a variety 
 
 ### 📈 [Time Tracker](https://github.com/joeproit/jobsearch-timetracker)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/project2)
-![GitHub issues](https://img.shields.io/github/issues/joeproit/project2)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/project2)
+![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/jobsearch-timetracker)
+![GitHub issues](https://img.shields.io/github/issues/joeproit/jobsearch-timetracker)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/jobsearch-timetracker)
 
 Node/React Time Tracker
 
