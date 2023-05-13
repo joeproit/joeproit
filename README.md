@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [JoePro] - aka [JoeProIT]
+# 👋 Hi there, I'm [JoeProIT](https://github.com/joeproit)
 
 ![GitHub followers](https://img.shields.io/github/followers/joeproit?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/joeproit?style=social)
