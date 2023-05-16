@@ -6,7 +6,7 @@
 ---
 
 ## 🧰 Languages and Tools:
-
+![Total Commits](https://img.shields.io/github/commits/all/joeproit/COBOL?label=Total%20Commits)
 ![JoeProIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeproit&count_private=true)
 
 ---
@@ -18,6 +18,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/COBOL)
 ![GitHub issues](https://img.shields.io/github/issues/joeproit/COBOL)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/COBOL)
+![Total Commits](https://img.shields.io/github/commits/all/joeproit/COBOL?label=Total%20Commits)
 
 This repository contains a collection of COBOL programs demonstrating a variety of skills and techniques.
 
