@@ -7,7 +7,7 @@
 
 ## 🧰 Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeproit&theme=tokyonight)
+![JoeProIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeproit&count_private=true)
 
 ---
 
