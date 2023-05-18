@@ -40,7 +40,7 @@ This repository contains a collection of PowerShell programs and challenges that
 
 Feel free to reach out if you're interested in collaboration or just want to chat!
 
-✉️ Email: [joe@joeproit.com](mailto:joe@joeproit.com)
+✉️ Email: [git@joeproit.com](mailto:git@joeproit.com)
 
 ---
 
