@@ -28,6 +28,14 @@ This repository contains a collection of COBOL programs demonstrating a variety 
 
 Node/React Time Tracker
 
+### 💻 [PowerShellDump](https://github.com/joeproit/PowerShellDump)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/PowerShellDump)
+![GitHub issues](https://img.shields.io/github/issues/joeproit/PowerShellDump)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/PowerShellDump)
+
+This repository contains a collection of PowerShell programs and challenges that were presented to me in times past during interviews, or challenges I've imagined since.
+
 ---
 
 Feel free to reach out if you're interested in collaboration or just want to chat!
