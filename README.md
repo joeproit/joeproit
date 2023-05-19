@@ -5,11 +5,6 @@
 
 ---
 
-## 🧰 Languages and Tools:
-![JoeProIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeproit&count_private=true)
-
----
-
 ## 💻 Recent Projects:
 
 ### 📚 [COBOL Portfolio](https://github.com/joeproit/COBOL)
@@ -38,12 +33,6 @@ This repository contains a collection of PowerShell programs and challenges that
 
 ---
 
-Feel free to reach out if you're interested in collaboration or just want to chat!
-
-✉️ Email: [git@joeproit.com](mailto:git@joeproit.com)
-
----
-
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/JoeProIT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joe.proveaux) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pertexted) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JoeProIT) 
@@ -57,9 +46,6 @@ Feel free to reach out if you're interested in collaboration or just want to cha
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=joeproit&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joeproit&icon=1&color=0)](https://visitcount.itsvg.in)
