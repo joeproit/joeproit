@@ -51,7 +51,9 @@ This repository contains a collection of PowerShell programs and challenges that
 [![](https://visitcount.itsvg.in/api?id=joeproit&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JoeProIT) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/JoeProIT) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joeproitllc) 
+
+COMING SOON [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/JoeProIT) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
