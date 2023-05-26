@@ -33,6 +33,14 @@ Node/React Time Tracker
 
 This repository contains a collection of PowerShell programs and challenges that were presented to me in times past during interviews, or challenges I've imagined since.
 
+### 💻 [PythonDump](https://github.com/joeproit/PythonDump)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/PythonDump)
+![GitHub issues](https://img.shields.io/github/issues/joeproit/PythonDump)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/PythonDump)
+
+Python Stuff
+
 ---
 
 
