@@ -9,14 +9,6 @@
 
 ## 💻 Recent Projects:
 
-### 📚 [COBOL Portfolio](https://github.com/joeproit/COBOL)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/COBOL)
-![GitHub issues](https://img.shields.io/github/issues/joeproit/COBOL)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/COBOL)
-
-This repository contains a collection of COBOL programs demonstrating a variety of skills and techniques.
-
 ### 📈 [Time Tracker](https://github.com/joeproit/jobsearch-timetracker)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/jobsearch-timetracker)
