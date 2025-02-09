@@ -9,29 +9,6 @@
 
 ## 💻 Recent Projects:
 
-### 📈 [Time Tracker](https://github.com/joeproit/jobsearch-timetracker)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/jobsearch-timetracker)
-![GitHub issues](https://img.shields.io/github/issues/joeproit/jobsearch-timetracker)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/jobsearch-timetracker)
-
-Node/React Time Tracker
-
-### 💻 [PowerShellDump](https://github.com/joeproit/PowerShellDump)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/PowerShellDump)
-![GitHub issues](https://img.shields.io/github/issues/joeproit/PowerShellDump)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/PowerShellDump)
-
-This repository contains a collection of PowerShell programs and challenges that were presented to me in times past during interviews, or challenges I've imagined since.
-
-### 💻 [PythonDump](https://github.com/joeproit/PythonDump)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/joeproit/PythonDump)
-![GitHub issues](https://img.shields.io/github/issues/joeproit/PythonDump)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/joeproit/PythonDump)
-
-Python Stuff
 
 ---
 
