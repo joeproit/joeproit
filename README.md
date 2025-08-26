@@ -1,4 +1,4 @@
-# Hey there, I'm JoePro / Kow! 👋
+# Hey there, I'm JoePro 👋
 
 > *"Tech should liberate people, not trap them."*
 
